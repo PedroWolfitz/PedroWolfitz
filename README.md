@@ -1,4 +1,4 @@
-###  🖥️⚡️ Olá! me chamo Pedro Henrique.
+### 🧑🏻‍💻Olá! me chamo Pedro Henrique.
 
 - 📊 Desenvolvedor Back-End
 - 📚 Estudante de Java.
@@ -8,9 +8,8 @@
 <div> 
  <a href="https://discord.gg/faith.and.constancy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedro.wolfitz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/pedro-henrique-4453a1238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-henrique-4453a1238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 
 ### Linguagens e Tecnologias
 
