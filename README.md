@@ -1,4 +1,4 @@
-### 🧑🏻‍💻Olá! me chamo Pedro Henrique.
+### 🧑🏻‍💻 Olá! me chamo Pedro Henrique.
 
 - 📊 Desenvolvedor Back-End
 - 📚 Estudante de Java.
