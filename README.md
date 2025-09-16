@@ -2,12 +2,12 @@
 
 - 📊 Desenvolvedor Back-End
 - 📚 Estudante de Java.
-- ✔ Contrate-me no email: pedro.wolfitz@gmail.com
- 
 
 <div> 
  <a href="https://discord.gg/22mW6Rpx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pedro.wolfitz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://mail.google.com/mail/?view=cm&to=pedro.wolfitz@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
   <a href="https://www.linkedin.com/in/pedro-henrique-4453a1238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -84,7 +84,22 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
 />
 </div>
-
-
 <br/>
 <br/>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PedroWolfitz&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWolfitz&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
